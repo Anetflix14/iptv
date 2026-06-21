@@ -1,369 +1,357 @@
 #EXTM3U
 #EXTINF:-1,A7TV HD
-http://glb.bozztv.com/gcntv-a7tv/index.m3u8
+https://glb.bozztv.com/gcntv-a7tv/mpegts
 
 #EXTINF:-1,Agro TV
-http://glb.bozztv.com/gcntv-agrotv/index.m3u8
+https://glb.bozztv.com/gcntv-agrotv/mpegts
 
 #EXTINF:-1,Aleph News
-http://glb.bozztv.com/gcntv-alephnews/index.m3u8
+https://glb.bozztv.com/gcntv-alephnews/mpegts
 
 #EXTINF:-1,Antena 1 HD
-http://glb.bozztv.com/gcntv-antena1hd/index.m3u8
+https://glb.bozztv.com/gcntv-antena1hd/mpegts
 
 #EXTINF:-1,Antena 1 HD
-http://glb.bozztv.com/gcntv-antena1hd/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-antena1hd/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Antena 3 HD
-http://glb.bozztv.com/gcntv-antena3/index.m3u8
+https://glb.bozztv.com/gcntv-antena3/mpegts
 
 #EXTINF:-1,Antena International
-http://glb.bozztv.com/gcntv-antenainternatio/index.m3u8
+https://glb.bozztv.com/gcntv-antenainternatio/mpegts
 
 #EXTINF:-1,Antena Stars HD
-http://glb.bozztv.com/gcntv-antenastars/index.m3u8
+https://glb.bozztv.com/gcntv-antenastars/mpegts
 
 #EXTINF:-1,B1 TV
-http://glb.bozztv.com/gcntv-b1tv/index.m3u8
+https://glb.bozztv.com/gcntv-b1tv/mpegts
 
 #EXTINF:-1,B1 TV
-http://glb.bozztv.com/gcntv-b1tv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-b1tv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Cartoon Network
-http://glb.bozztv.com/gcntv-cartoonnetwork/index.m3u8
+https://glb.bozztv.com/gcntv-cartoonnetwork/mpegts
 
 #EXTINF:-1,Cartoonito
-http://glb.bozztv.com/gcntv-boomerang/index.m3u8
+https://glb.bozztv.com/gcntv-boomerang/mpegts
 
 #EXTINF:-1,Children's Channel
-http://glb.bozztv.com/gcntv-childrenschannel/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-childrenschannel/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Children's Channel
-http://glb.bozztv.com/gcntv-childrenschannel/index.m3u8
+https://glb.bozztv.com/gcntv-childrenschannel/mpegts
 
 #EXTINF:-1,Cinemaraton HD
-http://glb.bozztv.com/gcntv-cinemaraton/index.m3u8
+https://glb.bozztv.com/gcntv-cinemaraton/mpegts
 
 #EXTINF:-1,CNN International
-http://glb.bozztv.com/gcntv-cnn-international/index.m3u8
+https://glb.bozztv.com/gcntv-cnn-international/mpegts
 
 #EXTINF:-1,Credo TV
-http://glb.bozztv.com/gcntv-credotv/index.m3u8
+https://glb.bozztv.com/gcntv-credotv/mpegts
 
 #EXTINF:-1,Credo TV
-http://glb.bozztv.com/gcntv-credotv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-credotv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Da Vinci
-http://glb.bozztv.com/gcntv-davinci/index.m3u8
+https://glb.bozztv.com/gcntv-davinci/mpegts
 
 #EXTINF:-1,Digi Animal World
-http://glb.bozztv.com/gcntv-digianimalworldhd/index.m3u8
+https://glb.bozztv.com/gcntv-digianimalworldhd/mpegts
 
 #EXTINF:-1,Digi FM
-http://glb.bozztv.com/gcntv-radiolive4/index.m3u8
+https://glb.bozztv.com/gcntv-radiolive4/mpegts
 
 #EXTINF:-1,DIGI LIFE HD
-http://glb.bozztv.com/gcntv-digilifehd/index.m3u8
+https://glb.bozztv.com/gcntv-digilifehd/mpegts
 
 #EXTINF:-1,Digi Sport 1 HD
-http://glb.bozztv.com/gcntv-digisporthd/index.m3u8
+https://glb.bozztv.com/gcntv-digisporthd/mpegts
+
+#EXTINF:-1,Digi Sport 2 HD
+https://glb.bozztv.com/gcntv-globalsports/mpegts
+
+#EXTINF:-1,Digi Sport 2 HD
+http://fl1003.bozztv.com/gcntv-globalsports/mpegts
+
+#EXTINF:-1,Digi Sport 3 HD
+https://glb.bozztv.com/gcntv-globalsports2/mpegts
+
+#EXTINF:-1,Digi Sport 3 HD
+http://fl1003.bozztv.com/gcntv-globalsports2/mpegts
 
 #EXTINF:-1,Digi Sport 4 HD
-http://glb.bozztv.com/gcntv-digisport4hd/index.m3u8
+https://glb.bozztv.com/gcntv-digisport4hd/mpegts
 
 #EXTINF:-1,Digi Sport 4 HD
-http://glb.bozztv.com/gcntv-digisport4hd/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-digisport4hd/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,DIGI WORLD HD
-http://glb.bozztv.com/gcntv-digiworld/index.m3u8
+https://glb.bozztv.com/gcntv-digiworld/mpegts
 
 #EXTINF:-1,Digi24 HD
-http://glb.bozztv.com/gcntv-digi24hd/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-digi24hd/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Digi24 HD
-http://glb.bozztv.com/gcntv-digi24hd/index.m3u8
+https://glb.bozztv.com/gcntv-digi24hd/mpegts
 
 #EXTINF:-1,Discovery HD
-http://glb.bozztv.com/gcntv-discoveryhd/index.m3u8
+https://glb.bozztv.com/gcntv-discoveryhd/mpegts
 
 #EXTINF:-1,Disney Channel
-http://glb.bozztv.com/gcntv-disneychannel/index.m3u8
+https://glb.bozztv.com/gcntv-disneychannel/mpegts
 
 #EXTINF:-1,Disney Junior
-http://glb.bozztv.com/gcntv-disneyjunior/index.m3u8
+https://glb.bozztv.com/gcntv-disneyjunior/mpegts
 
 #EXTINF:-1,Diva
-http://glb.bozztv.com/gcntv-diva/index.m3u8
+https://glb.bozztv.com/gcntv-diva/mpegts
 
 #EXTINF:-1,Epic Drama
-http://glb.bozztv.com/gcntv-epicdrama/index.m3u8
+https://glb.bozztv.com/gcntv-epicdrama/mpegts
 
 #EXTINF:-1,Etno TV HD
-http://glb.bozztv.com/gcntv-etnotvhd/index.m3u8
+https://glb.bozztv.com/gcntv-etnotvhd/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Etno TV HD
-http://glb.bozztv.com/gcntv-etnotvhd/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-etnotvhd/mpegts
 
 #EXTINF:-1,Euronews Romania
-http://glb.bozztv.com/gcntv-cinetube/index.m3u8
+https://glb.bozztv.com/gcntv-cinetube/mpegts
 
 #EXTINF:-1,Europa FM
-http://glb.bozztv.com/gcntv-radiolive2/index.m3u8
+https://glb.bozztv.com/gcntv-radiolive2/mpegts
 
 #EXTINF:-1,Eurosport 1 HD
-http://glb.bozztv.com/gcntv-eurosport1hd/index.m3u8
+https://glb.bozztv.com/gcntv-eurosport1hd/mpegts
 
 #EXTINF:-1,Eurosport 2 HD
-http://glb.bozztv.com/gcntv-eurosport2hd/index.m3u8
+https://glb.bozztv.com/gcntv-eurosport2hd/mpegts
 
 #EXTINF:-1,Favorit TV
-http://glb.bozztv.com/gcntv-favorittv/index.m3u8
+https://glb.bozztv.com/gcntv-favorittv/mpegts
 
 #EXTINF:-1,Film Cafe
-http://glb.bozztv.com/gcntv-filmcafe/index.m3u8
+https://glb.bozztv.com/gcntv-filmcafe/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Film Cafe
-http://glb.bozztv.com/gcntv-filmcafe/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-filmcafe/mpegts
 
 #EXTINF:-1,Fishing and Hunting
-http://glb.bozztv.com/gcntv-fishingandhuntin/index.m3u8
+https://glb.bozztv.com/gcntv-fishingandhuntin/mpegts
 
-#EXTINF:-1,GCNTV - 112
-http://glb.bozztv.com/gcntv-fox5atl/index.m3u8
+#EXTINF:-1,Fox 5 Atlanta
+https://glb.bozztv.com/gcntv-fox5atl/mpegts
 
-#EXTINF:-1,GCNTV - 113
-http://glb.bozztv.com/gcntv-foxsport1/index.m3u8
-
-#EXTINF:-1,GCNTV - TBD1
-http://glb.bozztv.com/gcntv-cinethronix/index.m3u8
-
-#EXTINF:-1,GCNTV - TBD2
-http://glb.bozztv.com/gcntv-proxhd/index.m3u8
-
-#EXTINF:-1,Global Sports 2 HD
-http://glb.bozztv.com/gcntv-globalsports2/index.m3u8
-
-#EXTINF:-1,Global Sports HD
-http://glb.bozztv.com/gcntv-globalsports/index.m3u8
-
-#EXTINF:-1,GLOBALSPORTS
-http://fl1003.bozztv.com/gcntv-globalsports/index.m3u8
-
-#EXTINF:-1,GLOBALSPORTS2
-http://fl1003.bozztv.com/gcntv-globalsports2/index.m3u8
+#EXTINF:-1,Fox Sport 1
+https://glb.bozztv.com/gcntv-foxsport1/mpegts
 
 #EXTINF:-1,Happy Channel HD
-http://glb.bozztv.com/gcntv-happychannelhd/index.m3u8
+https://glb.bozztv.com/gcntv-happychannelhd/mpegts
 
 #EXTINF:-1,HGTV HD
-http://glb.bozztv.com/gcntv-travelchannelhd/index.m3u8
+https://glb.bozztv.com/gcntv-travelchannelhd/mpegts
 
 #EXTINF:-1,History HD
-http://glb.bozztv.com/gcntv-historyhd/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-historyhd/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,History HD
-http://glb.bozztv.com/gcntv-historyhd/index.m3u8
+https://glb.bozztv.com/gcntv-historyhd/mpegts
 
 #EXTINF:-1,Hora TV
-http://glb.bozztv.com/gcntv-horatv/index.m3u8
+https://glb.bozztv.com/gcntv-horatv/mpegts
 
 #EXTINF:-1,Inedit TV
-http://glb.bozztv.com/gcntv-inedittv/index.m3u8
+https://glb.bozztv.com/gcntv-inedittv/mpegts
 
 #EXTINF:-1,JimJam
-http://glb.bozztv.com/gcntv-jimjam/index.m3u8
+https://glb.bozztv.com/gcntv-jimjam/mpegts
 
 #EXTINF:-1,Kanal D2 HD
-http://glb.bozztv.com/gcntv-bucurestitv/index.m3u8
+https://glb.bozztv.com/gcntv-bucurestitv/mpegts
 
 #EXTINF:-1,KanalD HD
-http://glb.bozztv.com/gcntv-kanaldhd/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-kanaldhd/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,KanalD HD
-http://glb.bozztv.com/gcntv-kanaldhd/index.m3u8
+https://glb.bozztv.com/gcntv-kanaldhd/mpegts
 
 #EXTINF:-1,Kapital TV
-http://glb.bozztv.com/gcntv-kapitaltv/index.m3u8
+https://glb.bozztv.com/gcntv-kapitaltv/mpegts
 
 #EXTINF:-1,Kiss FM
-http://glb.bozztv.com/gcntv-radiolive1/index.m3u8
+https://glb.bozztv.com/gcntv-radiolive1/mpegts
 
 #EXTINF:-1,Kiss TV
-http://glb.bozztv.com/gcntv-kisstv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-kisstv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Kiss TV
-http://glb.bozztv.com/gcntv-kisstv/index.m3u8
+https://glb.bozztv.com/gcntv-kisstv/mpegts
 
 #EXTINF:-1,LOOKSPORTPLUS
-http://glb.bozztv.com/gcntv-looksportplushd/index.m3u8
+https://glb.bozztv.com/gcntv-looksportplushd/mpegts
 
 #EXTINF:-1,MEDIKA TV
-http://glb.bozztv.com/gcntv-medikatv/index.m3u8
+https://glb.bozztv.com/gcntv-medikatv/mpegts
 
 #EXTINF:-1,Music Channel
-http://glb.bozztv.com/gcntv-musicchannel/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-musicchannel/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Music Channel
-http://glb.bozztv.com/gcntv-musicchannel/index.m3u8
+https://glb.bozztv.com/gcntv-musicchannel/mpegts
 
 #EXTINF:-1,Nasul TV
-http://glb.bozztv.com/gcntv-nasultv/index.m3u8
+https://glb.bozztv.com/gcntv-nasultv/mpegts
 
 #EXTINF:-1,Nasul TV
-http://glb.bozztv.com/gcntv-nasultv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-nasultv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Nat Geo HD
-http://glb.bozztv.com/gcntv-natgeohd/index.m3u8
+https://glb.bozztv.com/gcntv-natgeohd/mpegts
 
 #EXTINF:-1,Nat Geo Wild HD
-http://glb.bozztv.com/gcntv-natgeowildhd/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-natgeowildhd/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Nat Geo Wild HD
-http://glb.bozztv.com/gcntv-natgeowildhd/index.m3u8
+https://glb.bozztv.com/gcntv-natgeowildhd/mpegts
 
 #EXTINF:-1,National 24 Plus
-http://glb.bozztv.com/gcntv-n24/index.m3u8
+https://glb.bozztv.com/gcntv-n24/mpegts
 
 #EXTINF:-1,National TV
-http://glb.bozztv.com/gcntv-nationaltv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-nationaltv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,National TV
-http://glb.bozztv.com/gcntv-nationaltv/index.m3u8
+https://glb.bozztv.com/gcntv-nationaltv/mpegts
 
 #EXTINF:-1,NCN
-http://glb.bozztv.com/gcntv-ncn/index.m3u8
+https://glb.bozztv.com/gcntv-ncn/mpegts
 
 #EXTINF:-1,Nick Jr
-http://glb.bozztv.com/gcntv-nickjr/index.m3u8
+https://glb.bozztv.com/gcntv-nickjr/mpegts
 
 #EXTINF:-1,Nickelodeon
-http://glb.bozztv.com/gcntv-nickelodeon/index.m3u8
+https://glb.bozztv.com/gcntv-nickelodeon/mpegts
 
 #EXTINF:-1,Nicktoons
-http://glb.bozztv.com/gcntv-nicktoons/index.m3u8
+https://glb.bozztv.com/gcntv-nicktoons/mpegts
 
 #EXTINF:-1,Nostalgia TV
-http://glb.bozztv.com/gcntv-nostalgiatv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-nostalgiatv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Nostalgia TV
-http://glb.bozztv.com/gcntv-nostalgiatv/index.m3u8
+https://glb.bozztv.com/gcntv-nostalgiatv/mpegts
 
 #EXTINF:-1,Prima Comedy
-http://glb.bozztv.com/gcntv-comedyest/index.m3u8
+https://glb.bozztv.com/gcntv-comedyest/mpegts
 
 #EXTINF:-1,Prima News
-http://glb.bozztv.com/gcntv-profittv/index.m3u8
+https://glb.bozztv.com/gcntv-profittv/mpegts
 
 #EXTINF:-1,Prima Sport 2 HD
-http://glb.bozztv.com/gcntv-looktvhd/index.m3u8
+https://glb.bozztv.com/gcntv-looktvhd/mpegts
 
 #EXTINF:-1,Prima Sport 3 HD
-http://glb.bozztv.com/gcntv-looksport3hd/index.m3u8
+https://glb.bozztv.com/gcntv-looksport3hd/mpegts
 
 #EXTINF:-1,Prima TV HD
-http://glb.bozztv.com/gcntv-primatv/index.m3u8
+https://glb.bozztv.com/gcntv-primatv/mpegts
 
 #EXTINF:-1,Pro FM
-http://glb.bozztv.com/gcntv-radiolive5/index.m3u8
-
-#EXTINF:-1,PRO2
-http://glb.bozztv.com/gcntv-pro2hd/index.m3u8
-
-#EXTINF:-1,PROGOLD
-http://glb.bozztv.com/gcntv-progold/index.m3u8
+https://glb.bozztv.com/gcntv-radiolive5/mpegts
 
 #EXTINF:-1,ProTv International
-http://glb.bozztv.com/gcntv-protvinternation/index.m3u8
+https://glb.bozztv.com/gcntv-protvinternation/mpegts
 
 #EXTINF:-1,Radio ZU
-http://glb.bozztv.com/gcntv-radiolive3/index.m3u8
+https://glb.bozztv.com/gcntv-radiolive3/mpegts
 
 #EXTINF:-1,Realitatea TV
-http://glb.bozztv.com/gcntv-realitateatv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-realitateatv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Realitatea TV
-http://glb.bozztv.com/gcntv-realitateatv/index.m3u8
+https://glb.bozztv.com/gcntv-realitateatv/mpegts
 
 #EXTINF:-1,Romania TV HD
-http://glb.bozztv.com/gcntv-romaniatv/index.m3u8
+https://glb.bozztv.com/gcntv-romaniatv/mpegts
 
 #EXTINF:-1,Speranta TV
-http://glb.bozztv.com/gcntv-sperantatv/index.m3u8
+https://glb.bozztv.com/gcntv-sperantatv/mpegts
 
 #EXTINF:-1,Speranta TV
-http://glb.bozztv.com/gcntv-sperantatv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-sperantatv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Taraf TV
-http://glb.bozztv.com/gcntv-taraftv/index.m3u8
+https://glb.bozztv.com/gcntv-taraftv/mpegts
 
 #EXTINF:-1,Taraf TV
-http://glb.bozztv.com/gcntv-taraftv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-taraftv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,TLC
-http://glb.bozztv.com/gcntv-tlc/index.m3u8
+https://glb.bozztv.com/gcntv-tlc/mpegts
 
 #EXTINF:-1,Travel Mix
-http://glb.bozztv.com/gcntv-travelmix/index.m3u8
+https://glb.bozztv.com/gcntv-travelmix/mpegts
 
 #EXTINF:-1,Travel Mix
-http://glb.bozztv.com/gcntv-travelmix/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-travelmix/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,Trinitas TV
-http://glb.bozztv.com/gcntv-trinitastv/index.m3u8
+https://glb.bozztv.com/gcntv-trinitastv/mpegts
 
 #EXTINF:-1,Trinitas TV
-http://glb.bozztv.com/gcntv-trinitastv/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-trinitastv/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,TRT World
-http://trn03.tulix.tv/gt-trtworld/index.m3u8
+http://trn03.tulix.tv/gt-trtworld/mpegts
 
 #EXTINF:-1,TV Paprika
-http://glb.bozztv.com/gcntv-tvpaprika/index.m3u8
+https://glb.bozztv.com/gcntv-tvpaprika/mpegts
 
 #EXTINF:-1,TV Paprika
-http://glb.bozztv.com/gcntv-tvpaprika/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-tvpaprika/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,TVR 2 HD
-http://glb.bozztv.com/gcntv-tvr2/index.m3u8
+https://glb.bozztv.com/gcntv-tvr2/mpegts
 
 #EXTINF:-1,TVR 3
-http://glb.bozztv.com/gcntv-tvr3/index.m3u8
+https://glb.bozztv.com/gcntv-tvr3/mpegts
 
 #EXTINF:-1,TVR 3
-http://glb.bozztv.com/gcntv-tvr3/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-tvr3/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,TVR Cultural HD
-http://glb.bozztv.com/gcntv-tvrcultural/index.m3u8
+https://glb.bozztv.com/gcntv-tvrcultural/mpegts
 
 #EXTINF:-1,TVR Folclor HD
-http://glb.bozztv.com/gcntv-tvrfolclor/index.m3u8
+https://glb.bozztv.com/gcntv-tvrfolclor/mpegts
 
 #EXTINF:-1,TVR Info HD
-http://glb.bozztv.com/gcntv-tvrinfo/index.m3u8
+https://glb.bozztv.com/gcntv-tvrinfo/mpegts
 
 #EXTINF:-1,TVR International
-http://glb.bozztv.com/gcntv-tvrinternational/index.m3u8
+https://glb.bozztv.com/gcntv-tvrinternational/mpegts
 
 #EXTINF:-1,TVR International
-http://glb.bozztv.com/gcntv-tvrinternational/index.m3u8?t=800368121f12eca14d0d7f2b7c42223e
+https://glb.bozztv.com/gcntv-tvrinternational/mpegts?t=800368121f12eca14d0d7f2b7c42223e
 
 #EXTINF:-1,TVR Sport HD
-http://glb.bozztv.com/gcntv-dolcesporthd/index.m3u8
+https://glb.bozztv.com/gcntv-dolcesporthd/mpegts
 
 #EXTINF:-1,TVR1 HD
-http://glb.bozztv.com/gcntv-tvr1hd/index.m3u8
+https://glb.bozztv.com/gcntv-tvr1hd/mpegts
 
 #EXTINF:-1,TVRFOLCLOR
-http://fl1003.bozztv.com/gcntv-tvrfolclor/index.m3u8
+http://fl1003.bozztv.com/gcntv-tvrfolclor/mpegts
 
 #EXTINF:-1,UTV HD
-http://glb.bozztv.com/gcntv-utvhd/index.m3u8
+https://glb.bozztv.com/gcntv-utvhd/mpegts
 
 #EXTINF:-1,Viasat Kino
-http://glb.bozztv.com/gcntv-tv1000/index.m3u8
+https://glb.bozztv.com/gcntv-tv1000/mpegts
 
 #EXTINF:-1,Warner TV
-http://glb.bozztv.com/gcntv-warnertv/index.m3u8
+https://glb.bozztv.com/gcntv-warnertv/mpegts
 
 #EXTINF:-1,ZU TV HD
-http://glb.bozztv.com/gcntv-zutvhd/index.m3u8
+https://glb.bozztv.com/gcntv-zutvhd/mpegts
